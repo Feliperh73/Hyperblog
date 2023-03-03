@@ -11,3 +11,13 @@ body
     text-align: left;
     border: 1px solid #ddd1;
 }
+
+#cabecera
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd1;
+}
+
+    
